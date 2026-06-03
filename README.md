@@ -71,7 +71,7 @@
       <tr><td align="center">🔍</td><td>فیلتر هوشمند</td></tr>
     </table>
     <br>
-    <a href="bronze-v1/">
+    <a href="v1.0-Bronze/">
       <img src="https://img.shields.io/badge/📂_مشاهده_نسخه-View_Edition-CD7F32?style=for-the-badge&logo=github&logoColor=white" alt="Bronze">
     </a>
     <br><br>
@@ -89,7 +89,7 @@
       <tr><td align="center">📦</td><td>+ ظرفیت کلاس</td></tr>
     </table>
     <br>
-    <a href="silver-v2/">
+    <a href="v2.0-Silver-Edition/">
       <img src="https://img.shields.io/badge/📂_مشاهده_نسخه-View_Edition-C0C0C0?style=for-the-badge&logo=github&logoColor=white" alt="Silver">
     </a>
     <br><br>
@@ -107,7 +107,7 @@
       <tr><td align="center">📄</td><td>+ PDF فارسی + Excel</td></tr>
     </table>
     <br>
-    <a href="golden-v3/">
+    <a href="v3.0-Golden-Edition/">
       <img src="https://img.shields.io/badge/📂_مشاهده_نسخه-View_Edition-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Golden">
     </a>
     <br><br>
